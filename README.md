@@ -1,6 +1,10 @@
 TAREA 4: Refuerzo de Github
 
+<<<<<<< HEAD
 1. Creación de repositorio: 
+=======
+1. Creación de repositorio:
+>>>>>>> a55ea28dbfdce4aeb0e40711da85124c095f7f89
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%201.png)
 2. Clonar repositorio en local --> Git clone https://github.com/anarp14/refuerzo-arp.git
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%202.png)
