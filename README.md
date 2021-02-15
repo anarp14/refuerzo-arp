@@ -1,6 +1,7 @@
 TAREA 4: Refuerzo de Github
 
-1. Creación de repositorio: ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%201.png)
+1. Creación de repositorio: 
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%201.png)
 2. Clonar repositorio en local --> Git clone https://github.com/anarp14/refuerzo-arp.git
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%202.png)
 3. Creación de un READme en el repositorio local:
@@ -8,7 +9,7 @@ TAREA 4: Refuerzo de Github
 4. Commit inicial
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%204.png)
 5. Push inicial
-![GIT BRANCH] (https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%205.png)
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%205.png)
 6. Ignorar archivos
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%206.png)
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%206.1.png)
