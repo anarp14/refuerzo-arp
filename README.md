@@ -1,6 +1,6 @@
 TAREA 4: Refuerzo de Github
 
-1. Creación de repositorio:
+1. Creación de repositorio: 
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%201.png)
 2. Clonar repositorio en local --> Git clone https://github.com/anarp14/refuerzo-arp.git
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%202.png)
@@ -21,3 +21,10 @@ TAREA 4: Refuerzo de Github
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%208.png)
 9. Sube los cambios (incluido el tag) al repositorio remoto
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%209.png)
+
+12. Tabla con información de los compañeros de clase:
+
+Nombre | GITHUB
+------- -------
+Laura Alcón García | https://github.com/axrynz
+Pablo Leal | https://github.com/Pabloleabr/refuerzos-PLO
