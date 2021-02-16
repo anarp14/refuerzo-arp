@@ -1,11 +1,11 @@
-<html>
-  <h1> TAREA 4: Refuerzo de Github </h1>
 
-1. Creación de repositorio: 
-![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%201.png)
-2. Clonar repositorio en local --> Git clone https://github.com/anarp14/refuerzo-arp.git
-![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%202.png)
-3. Creación de un READme en el repositorio local:
+<h1>TAREA 4: Refuerzo de Github </h1>
+
+1. Creación de repositorio: <br/>
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%201.png) <br/>
+2. Clonar repositorio en local --> Git clone https://github.com/anarp14/refuerzo-arp.git <br/>
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%202.png) <br/>
+3. Creación de un READme en el repositorio local: </br>
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%203.png)
 4. Commit inicial
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%204.png)
@@ -29,4 +29,3 @@ Nombre | GITHUB
 ------- -------
 Laura Alcón García | https://github.com/axrynz
 Pablo Leal | https://github.com/Pabloleabr/refuerzos-PLO
-</html>
