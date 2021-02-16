@@ -1,4 +1,5 @@
-TAREA 4: Refuerzo de Github
+<html>
+  <h1> TAREA 4: Refuerzo de Github </h1>
 
 1. Creación de repositorio: 
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%201.png)
@@ -28,3 +29,4 @@ Nombre | GITHUB
 ------- -------
 Laura Alcón García | https://github.com/axrynz
 Pablo Leal | https://github.com/Pabloleabr/refuerzos-PLO
+</html>
