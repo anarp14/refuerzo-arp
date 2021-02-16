@@ -25,8 +25,6 @@ c) c.	Realiza los cambios oportunos para que tanto el archivo como la carpeta se
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%208.png) <br/>
 9. Sube los cambios (incluido el tag) al repositorio remoto. <br/>
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%209.png) <br/>
-10.	 Cuenta de github. <br/>
-a.	Poner una foto en vuestro perfil de github (la que queráis) <br/>
 
 
 12. Tabla con información de los compañeros de clase:
