@@ -36,10 +36,10 @@ c) c.	Realiza los cambios oportunos para que tanto el archivo como la carpeta se
 		</tr>
 		<tr>
 			<td>Blanca Pedrote </td>
-			<td>Juan Diego Jurado Pimentel</td>
+			<td></td>
 		</tr>
 		<tr>
-			<td></td>
+			<td>Juan Diego Jurado Pimentel</td>
 			<td>https://github.com/juandiegojp/refuerzo-JDJP</td>
 		</tr>
 		
