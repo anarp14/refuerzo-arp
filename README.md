@@ -5,25 +5,25 @@
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%201.png) <br/>
 2. Clonar repositorio en local --> Git clone https://github.com/anarp14/refuerzo-arp.git <br/>
 ![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%202.png) <br/>
-3. Creación de un READme en el repositorio local: 
-![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%203.png)
-4. Commit inicial
-![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%204.png)
-5. Push inicial
-![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%205.png)
-6. Ignorar archivos
-![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%206.png)
-![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%206.1.png)
-![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%206.2.png)
-![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%206.3.png)
-7. Añadir el fichero “1.txt” al repositorio local
-![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%207.png)
-8. Crea el tag v0.1
-![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%208.png)
-9. Sube los cambios (incluido el tag) al repositorio remoto
-![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%209.png)
+3. Creación de un READme en el repositorio local: <br/>
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%203.png) <br/>
+4. Commit inicial <br/>
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%204.png) <br/>
+5. Push inicial <br/>
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%205.png) <br/>
+6. Ignorar archivos <br/>
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%206.png) <br/>
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%206.1.png) <br/>
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%206.2.png)<br/>
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%206.3.png)<br/>
+7. Añadir el fichero “1.txt” al repositorio local<br/>
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%207.png)<br/>
+8. Crea el tag v0.1 <br/>
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%208.png) <br/>
+9. Sube los cambios (incluido el tag) al repositorio remoto <br/>
+![GIT BRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%209.png) <br/>
 
-12. Tabla con información de los compañeros de clase:
+12. Tabla con información de los compañeros de clase: <br/>
 
 <table>
 		<tr>
@@ -32,7 +32,7 @@
 		</tr>
 		<tr>
 			<td>Blanca Pedrote </td>
-			<td></td>
+			<td>https://github.com/Bianca-87</td>
 		</tr>
 		<tr>
 			<td>Juan Diego Jurado Pimentel</td>
@@ -41,4 +41,17 @@
 		
 </table>
 
+<h2> TAREA 5: Refuerzo de Github </h2> <br/>
 
+1. Crear rama. <br/>
+- Compruebo las ramas que tengo creadas. <br/>
+- Creo la rama v0.2.<br/>
+-Compruebo que se ha creado correctamente.<br/>
+![GITBRANCH] () <br/>
+- Posiciona tu carpeta de trabajo en esta rama.<br/>
+![GITBRANCH] ()<br/>
+2.	Añadir fichero. Añadir un fichero 2.txt en la rama v0.2<br/>
+[GITBRANCH] ()<br/>
+3.	Crear rama remota. Sube los cambios (incluida la rama) al repositorio remoto<br/>
+[GITBRANCH] ()<br/>
+4. 
