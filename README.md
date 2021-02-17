@@ -30,23 +30,18 @@ c) c.	Realiza los cambios oportunos para que tanto el archivo como la carpeta se
 12. Tabla con información de los compañeros de clase:
 
 <table>
-	<tbody>
 		<tr>
 			<td> Nombre</td>
 			<td>GITHUB</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>Blanca Pedrote </td>
+			<td>Juan Diego Jurado Pimentel</td>
 		</tr>
 		<tr>
 			<td></td>
-			<td></td>
+			<td>https://github.com/juandiegojp/refuerzo-JDJP</td>
 		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-	</tbody>
+		
 </table>
 
