@@ -64,5 +64,24 @@
 4. Merge directo.
 a.Posicionarse en la rama master </br>
 ![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2016.png) </br>
-b.Hacer un merge de la rama v0.2 en la rama master
+b.Hacer un merge de la rama v0.2 en la rama master </br>
 ![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2015.png) </br>
+5.Merge con conflicto. </br>
+a.En la rama master poner “Hola” en el fichero 1.txt y hacer commit </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2018.png) </br>
+b.Posicionarse en la rama v0.2 y poner “Adios” en el fichero “1.txt” y hacer commit. </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2019.png) </br>
+c.Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2. </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2020.png)</br>
+6.Listado de ramas. Listar las ramas con merge y las ramas sin merge </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2021.png)</br>
+7.Arreglar conflicto. Arreglar el conflicto anterior y hacer un commit </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2022.png)</br>
+8.Borrar rama.
+a.Crear un tag v0.2 </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2023.png)</br>
+b.Borrar la rama v0.2 </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2024.png) </br>
+9.Lista los distintos commits con sus ramas y sus tags --> con git log --oneline </br>
+10.Crear organización. Crea una organización llamada refuerzo-tunombredeusuariodegithub </br>
+
