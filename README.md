@@ -56,17 +56,13 @@
 - Posiciona tu carpeta de trabajo en esta rama.<br/>
 ![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2011.png)<br/>
 2.	Añadir fichero. Añadir un fichero 2.txt en la rama v0.2 <br/>
-<<<<<<< HEAD
-![GITBRANCH] (https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2012.png)<br/>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2012.png)<br/>
 3.	Crear rama remota. Sube los cambios (incluida la rama) al repositorio remoto<br/>
-![GITBRANCH] (https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2013.png)<br/>
-![GITBRANCH] https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2014.png <br/>
-![GITBRANCH] https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2015.png <br/>
-=======
-[GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2012.png)<br/>
-3.	Crear rama remota. Sube los cambios (incluida la rama) al repositorio remoto<br/>
-[GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2013.png)<br/>
-[GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2014.png) <br/>
-[GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2015.png) <br/>
->>>>>>> 56bd766847262a8929dbc9895ab5320b578a175b
-4. 
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2013.png) <br/>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2014.png) <br/>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2015.png) <br/>
+4. Merge directo.
+a.Posicionarse en la rama master </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2016.png) </br>
+b.Hacer un merge de la rama v0.2 en la rama master
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2015.png) </br>
