@@ -38,7 +38,7 @@
 			<td>Juan Diego Jurado Pimentel</td>
 			<td>https://github.com/juandiegojp/refuerzo-JDJP</td>
 		</tr>
-		<tr
+		<tr>
 			<td> Francisco </td>
 			<td>https://github.com/franciscomfm/refuerzo-fmfm</td>
 		</tr>
