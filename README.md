@@ -83,5 +83,26 @@ a.Crear un tag v0.2 </br>
 b.Borrar la rama v0.2 </br>
 ![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2024.png) </br>
 9.Lista los distintos commits con sus ramas y sus tags --> con git log --oneline </br>
-10.Crear organización. Crea una organización llamada refuerzo-tunombredeusuariodegithub </br>
+10.Crear organización. Crea una organización llamada refuerzo-anarp14 </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2010.png)
+12.Crear equipos. </br>https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/2.png
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/captura%2011.png) </br>
+12.Crea un index.html que se pueda ver como página web en la organización. </br>
+13.Crear Pull-requests </br>
+a.Hacer 2 forks de 2 repositorios repaso-tunombredeusuariodegithub.io. </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/hacer%20fork.png) </br>
+b.En cada rama modificar el fichero index.html añadiendo vuestro nombre completo. </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/2.png) </br>
+c.Crearos una rama en cada fork. </br>
+d.Con cada rama hacer un pull-request. </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/3.png) </br>
+c(https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/4.png) </br>
+14.Gestión de pull-requests. 
+a.Aceptar los pull-request que lleguen a los repositorios de tu organización
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/5.png)
+b.Establece un chat con uno de los pull </br>
+c.Rechaza alguna petición que hayas tenido un chat </br>
+![GITBRANCH](https://github.com/anarp14/refuerzo-arp/blob/master/CAPTURAS/no%20acepto%20el%20pull.png)
+
+
 
